@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Caleb Hering
+name: caleb hering
 
 # Short bio or description (displayed in the header)
-description: Unproffesional Alpinist, Climber, and Photographer
+description: unproffesional alpinist, climber, and photographer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/c-hering/c-hering.github.io/master/images/profile_pic.JPG
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
