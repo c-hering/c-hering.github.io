@@ -20,6 +20,7 @@ html {
 body {
 	background: $white;
   font: 18px/1.4 $arialBlack;
+  font-weight: bold;
   color: $darkGray;
 }
 
@@ -195,7 +196,7 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: $arialBlack;
-  font-weight: 300;
+  font-weight: bold;
   font-size: 28px;
   letter-spacing: 1px;
 }
@@ -214,6 +215,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $arialBlack;
+  font-weight: bold;
   font-size: 18px;
 
   @include mobile {
